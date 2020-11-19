@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "202457504197",
+    "firebase_url": "https://utszery.firebaseio.com",
+    "project_id": "utszery",
+    "storage_bucket": "utszery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202457504197:android:ccb51c30565c8bc00053ac",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500089_zerydwi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202457504197-fqtd2kh8lbl77v7f9crv6kvcp6udlm4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-_DF0iyJIWVT5u3u6EqDKgRYXvOcpNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202457504197-fqtd2kh8lbl77v7f9crv6kvcp6udlm4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

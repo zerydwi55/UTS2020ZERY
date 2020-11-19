@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_AMUB_TI7A_1711500089_ZERYDWI</string>
+    <string name="copyright">@Copyright_Zery</string>
+    <string name="nama_tidak_boleh_kosong">Username Tidak Boleh Kosong</string>
+    <string name="password_harus_terdiri_dari_6_angka">Password Harus Terdiri Dari 6 Angka</string>
+    <string name="email_tidak_boleh_kosong">Email Tidak Boleh Kosong</string>
+    <string name="alamat_tidak_boleh_kosong">Alamat Tidak Boleh Kosong</string>
+    <string name="hobi_tidak_boleh_kosong">Hobi Tidak Boleh Kosong</string>
+</resources>
